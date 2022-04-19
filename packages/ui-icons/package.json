@@ -1,8 +1,6 @@
 {
-  "name": "@thiago_brolly/ui",
-  "version": "1.0.2",
-  "description": "> TODO: description",
-  "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
+  "name": "@pay/icons",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
