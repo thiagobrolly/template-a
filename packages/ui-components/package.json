@@ -1,6 +1,6 @@
 {
   "name": "@thiago_brolly/ui",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
   "license": "MIT",
@@ -17,5 +17,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "d01ae14001d117b5e8205619e8bdb3666fdcae0d"
 }

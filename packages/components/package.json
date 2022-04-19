@@ -1,6 +1,6 @@
 {
   "name": "@thiago_brolly/components",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
   "homepage": "",
@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "d01ae14001d117b5e8205619e8bdb3666fdcae0d"
 }
